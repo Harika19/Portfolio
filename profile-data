@@ -1,0 +1,58 @@
+Complete profile:
+https://static1.squarespace.com/static/59518b28cd0f684eae15259e/t/5b415ca5352f532eeaa39083/1531010213704/yk_sugi_resume.pdf
+
+
+Lifion:
+
+
+Intern:
+
+auth
+
+Migration scripts-
+ I was responsible for creating Migration scripts in javascript for existing clients .
+
+BE:
+
+Job-keeper( feature dated events):
+
+Designed new architecture of Lifion development platform’s jobs-keeper component. 
+• Implemented highly auto-scalable job-executer service with multiple pods .
+• Achieved a 10 fold increase in processing capability and 5 folds increase in job frequency on scheduled jobs.
+ • Designed and developed reactor microservices for Lifion Business Events end to end.
+
+
+AUTOCANNON - benchmark
+
+Worked on getting current performance by benchmarking the endpoints in our services using tools.
+
+Succesful in getting benchmarks of the endpoints in our services using tools.
+
+
+sharding initiative:  
+Worked on sharding initiative and I was Responsible for  implementing sharding of databases  in production.
+
+
+Branch TEST TILE -
+ To make job easier for LD’S to test feature , I created a test tile on UI
+Responsible for creating an internal testing tool that is now used by LD’s to test and view the results of internal features.
+
+Memory leaks : 
+I was responsible for finding the cause behind Kubernetes pod restarts and solved them.(out of memory)
+identified memory leaks in our services using various resources like node clinic, kibana logs, data dog metrics and fixed them.
+optimised code of our services and Addressed memory issues.
+
+
+Db-instance:
+
+I was responsible for choosing the right RDS instance type for our services in  higher environments considering various aspects such as maximum db connections required , cost aspect, CPU, Memory, supporting Mysql versions..
+
+Re-arc - Kafka
+Worked on re-designing the architecture and was successful in achieving high throughput 
+
+
+Mm2 = DR KAFKA
+
+Terraform …: 
+Responsible for creating kafka clusters  via terraform by adopting few ask modules.
+
